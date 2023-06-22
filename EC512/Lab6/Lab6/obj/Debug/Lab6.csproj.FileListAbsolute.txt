@@ -1,0 +1,7 @@
+C:\Users\janto\OneDrive\Desktop\EC512\Lab6\Lab6\bin\Lab6.dll.config
+C:\Users\janto\OneDrive\Desktop\EC512\Lab6\Lab6\bin\Lab6.dll
+C:\Users\janto\OneDrive\Desktop\EC512\Lab6\Lab6\bin\Lab6.pdb
+C:\Users\janto\OneDrive\Desktop\EC512\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\janto\OneDrive\Desktop\EC512\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\janto\OneDrive\Desktop\EC512\Lab6\Lab6\obj\Debug\Lab6.dll
+C:\Users\janto\OneDrive\Desktop\EC512\Lab6\Lab6\obj\Debug\Lab6.pdb
